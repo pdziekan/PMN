@@ -1,6 +1,6 @@
 [Zadania](https://e.pcloud.link/publink/show?code=kZAF0dZKsyyuXyGxn4DrsJzmn2OzpORrAvk)
 
-[Przykładowe rozwiązania](https://e.pcloud.link/publink/show?code=kZtF0dZWm42ceoIHoRi6FxO9OrCcjI2MqS7)
+[Przykładowe rozwiązania](https://e.pcloud.link/publink/show?code=kZtF0dZWm42ceoIHoRi6FxO9OrCcjI2MqS7) (nie zawsze w pełni zgodne z treścią!)
 
 #### Materiały do ćwiczeń:
 6. Wektory i wartości własne macierzy
